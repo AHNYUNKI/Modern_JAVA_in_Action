@@ -5,5 +5,6 @@
 
 ### Part Ⅰ 기초
 
-* [Chapter 1 - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가](PART.1/Chapter1.md)
-* [Chapter 2 - 동작 파라미터화 코드 전달하기](PART.1/Chapter2.md)
+* [Chapter 1 - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가](PART.1/Chapter1%20-%20무슨%20일이%20일어나고%20있는가.md)
+* [Chapter 2 - 동작 파라미터화 코드 전달하기](PART.1/Chapter2%20-%20동작%20파라미터화%20코드%20전달하기.md)
+* [Chapter 2 - 동작 파라미터화 코드 전달하기](PART.1/Chapter3%20-%20람다%20표현식.md)
